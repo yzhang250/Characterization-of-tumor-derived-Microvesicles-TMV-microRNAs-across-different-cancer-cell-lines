@@ -1,0 +1,7 @@
+Raw_reads/*.bam
+Raw_reads/*.bai
+Raw_reads/*.sam
+Raw_reads/*.fastq
+Raw_reads/*.gtf
+Raw_reads/*.txt
+Raw_reads/hg19/*
